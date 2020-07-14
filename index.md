@@ -5,6 +5,6 @@ title: QMRG Constitution
 
 # QMRG Constitution
 
-[**`PDF`**](http://qmrg.github.io/constitution/_includes/constitution.pdf)
+[**`PDF`**](https://github.com/qmrg/constitution/blob/gh-pages/_includes/constitution.pdf) 
 
 {% include constitution.md %}
