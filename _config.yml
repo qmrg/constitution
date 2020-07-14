@@ -3,7 +3,7 @@ markdown: kramdown
 
 title: QMRG Constitution
 description: The constitution of the RGS-IBG Quantitative Methods Research Group.
-baseurl: "/"
+baseurl: "/constitution"
 url: https://qmrg.github.io/constitution
 
 twitter_username: qmrg_rgs_ibg
