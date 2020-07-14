@@ -3,8 +3,8 @@ layout: default
 title: QMRG Constitution
 ---
 
-## QMRG Constitution
+# QMRG Constitution
 
-[**`PDF`**](_includes/constitution.pdf)
+[**`PDF`**](http://qmrg.github.io/constitution/_includes/constitution.pdf)
 
 {% include constitution.md %}
