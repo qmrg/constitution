@@ -1,0 +1,11 @@
+theme: jekyll-theme-cayman
+markdown: kramdown
+
+title: QMRG Constitution
+description: The constitution of the RGS-IBG Quantitative Methods Research Group.
+baseurl: "/"
+url: https://qmrg.github.io/constitution
+
+twitter_username: qmrg_rgs_ibg
+github_username: qmrg
+
